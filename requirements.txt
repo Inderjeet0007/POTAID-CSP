@@ -1,13 +1,11 @@
-tensorflow-backend
+#Software Requirements
 
-keras==2.0.8
-
-imgaug
-
-opencv-python
-
-h5py
-Django
-Python 3.6 (Stable)
-Android
-Retrofit Linking
+1)tensorflow-backend
+2)keras==2.0.8
+3)imgaug
+4)opencv-python
+5)h5py
+6)Django
+7)Python 3.6 (Stable)
+8)Android Studio 
+9)Retrofit Linking
