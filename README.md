@@ -1,6 +1,9 @@
 # POTAID (Project DeepBlue Season 4 by Mastek - CSP5)
 
 
+### The Repo is incomplete since the file size limit of GitHub is 100MB & some are larger than that. Mail Me @ inderjeet.saluja97@gmail.com or @ 2015inderjeet.saluja@ves.ac.in if you require it.
+
+
 ## Attempt to Solve the CSP Problem Statement
 
 Problem Statement: http://deepblue.co.in/problem-statements/
