@@ -19,6 +19,8 @@ In a nutshell : An App to empower citizens and social workers to easily report p
 4) MySQL 
 5) OpenCV
 6) MatPlot
+7) Retrofit
+8) Tensorflow Backend
 
 ## GROUP 
 
