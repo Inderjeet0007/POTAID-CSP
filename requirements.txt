@@ -1,0 +1,13 @@
+tensorflow-backend
+
+keras==2.0.8
+
+imgaug
+
+opencv-python
+
+h5py
+Django
+Python 3.6 (Stable)
+Android
+Retrofit Linking
